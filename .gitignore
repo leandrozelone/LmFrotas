@@ -68,3 +68,5 @@ LmFrotas/obj/LmFrotas.csproj.nuget.g.props
 LmFrotas/obj/LmFrotas.csproj.nuget.g.targets
 LmFrotas/obj/project.assets.json
 LmFrotas/obj/project.nuget.cache
+.vscode/launch.json
+.vscode/tasks.json
