@@ -63,10 +63,6 @@ LmFrotas/obj/Debug/netcoreapp3.1/LmFrotas.RazorTargetAssemblyInfo.cache
 LmFrotas/obj/Debug/netcoreapp3.1/project.razor.json
 LmFrotas/obj/Debug/netcoreapp3.1/staticwebassets/LmFrotas.StaticWebAssets.Manifest.cache
 LmFrotas/obj/Debug/netcoreapp3.1/staticwebassets/LmFrotas.StaticWebAssets.xml
-LmFrotas/obj/LmFrotas.csproj.nuget.dgspec.json
-LmFrotas/obj/LmFrotas.csproj.nuget.g.props
-LmFrotas/obj/LmFrotas.csproj.nuget.g.targets
-LmFrotas/obj/project.assets.json
-LmFrotas/obj/project.nuget.cache
+
 .vscode/launch.json
 .vscode/tasks.json
